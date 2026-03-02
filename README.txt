@@ -5,9 +5,10 @@ TCC 0.9.27 Win64 with SDL3 and SDL3_ttf preconfigured
 This package contains a pre-built Tiny C Compiler (TCC) 0.9.27 for Windows 64-bit, together with:
 
 - A complete set of WinAPI headers for TCC
-- SDL3 a cross-platform software development library.
-- SDL3_ttf helps users render text in SDL3 apps.
+- SDL3 3.4.2 - a cross-platform software development library.
+- SDL3_ttf 3.2.2 helps users render text in SDL3 apps.
 - Example programs
+TCC 0.9.27 Win64 with SDL3/SDL3_ttf preconfigured
 
 Build & run on Windows
 Recommended:
